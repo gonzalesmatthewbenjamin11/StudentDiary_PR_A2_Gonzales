@@ -1,0 +1,9 @@
+# Build artifacts
+bin/
+obj/
+
+# Database files
+*.db
+
+# Visual Studio settings
+.vs/
